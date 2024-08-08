@@ -1,19 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuuahp/yuuahp/main/Header.svg" alt="header" width="90%"/> 
-</p>
-<h1 align="center">Hi 👋, I'm yuuaHP ☕</h1>
-<h2 align="center">Beginner Java & Kotlin Developer</h2> 
+<h1 align="center">Hi 👋, I'm yuua ☕</h1>
+<h3 align="center">A hobby developer who LOVES Kotlin.</h2> 
 
-## Languages & Frameworks
+## About me
+I'm **a university student** in Japan and a hobby developer who **absolutely loves Kotlin.**  
+For further information, please check out my portfolio 👉 **[www.yuua.dev](https://www.yuua.dev)**
 
-- Java
-- Kotlin (backend)
-- Javascript & Typescript
-- Vue & Nuxt
-- C#
-
-## Tools
-
-- IntelliJ IDEA
-- VSCode
-- GitHub
+## Skills
+- Kotlin, Java
+- Nuxt.js, Typescript, Tailwind CSS
+- Figma
