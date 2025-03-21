@@ -21,6 +21,6 @@ For further information, please check out my portfolio 👉 **[www.yuua.dev](htt
 
 ## Skills
 - Kotlin, Java
-- Nuxt.js, Typescript, Tailwind CSS
+- Next.js, Nuxt.js, Typescript, Tailwind CSS
 - Figma
 
