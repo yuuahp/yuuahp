@@ -22,6 +22,7 @@ For further information, please check out my portfolio 👉 **[www.yuua.dev](htt
 ## Skills
 (in the order of proficiency)  
 - **Languages**: Kotlin >> Typescript = Java > Bash = Go
+  - Wishlist: Haskell
 - **Frameworks**: Next.js = Nuxt.js = Tailwind CSS
 - **Tools**: Figma = Affinity Designer > Adobe Illustrator
 
