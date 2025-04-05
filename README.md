@@ -20,7 +20,8 @@ For further information, please check out my portfolio 👉 **[www.yuua.dev](htt
   > Source code of my portfolio
 
 ## Skills
-- Kotlin, Java
-- Next.js, Nuxt.js, Typescript, Tailwind CSS
-- Figma
+(in the order of proficiency)  
+- **Languages**: Kotlin >> Typescript = Java > Bash = Go
+- **Frameworks**: Next.js = Nuxt.js = Tailwind CSS
+- **Tools**: Figma = Affinity Designer > Adobe Illustrator
 
